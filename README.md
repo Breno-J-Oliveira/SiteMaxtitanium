@@ -52,6 +52,16 @@ O objetivo foi praticar **estruturação semântica, estilização avançada, re
 
 ---
 
+🎨 Protótipo no Figma
+
+Você pode visualizar o design do site no Figma clicando no link abaixo:
+
+🔗 Acessar Protótipo no Figma
+
+<p align="center"> <a href="https://www.figma.com/design/gMtPprReXSWmgb1Op58KDs/MaxTitanium?node-id=0-1&t=ZaWskGAbvn7Fq35j-1" target="_blank"> <img src="https://img.shields.io/badge/Ver%20no-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma"> </a> </p>
+
+---
+
 🏆 Conclusão
 
 Este projeto foi uma oportunidade para aplicar conceitos de HTML e CSS em um caso real de loja virtual, reforçando habilidades de front-end e boas práticas de organização de código.
