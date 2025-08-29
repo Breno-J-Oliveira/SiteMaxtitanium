@@ -52,6 +52,30 @@ O objetivo foi praticar **estruturação semântica, estilização avançada, re
 
 ---
 
+## 🌐 Site Oficial Replicado  
+
+Este projeto foi inspirado no **site oficial da Max Titanium**:  
+
+<p align="center">
+  <a href="https://www.maxtitanium.com.br/?utm_source=googleads&utm_medium=cpc&utm_campaign=GO_SEAR_INST_F_BR_Institucional-Impressao&gad_source=1&gad_campaignid=21054127855&gbraid=0AAAAADhRO4O6ECC2kD_121ieCPbY9qaFk&gclid=Cj0KCQjwn8XFBhCxARIsAMyH8BuSPfdEIMSA_aTMyWs32Mju6K_BMKPKXYkd0i9Uou8FLsp6VFbkLCIaAkhHEALw_wcB" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Site%20Oficial-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site Oficial">
+  </a>
+</p>
+
+---
+
+## 📄 PDF do Protótipo / Portfólio  
+
+Também foi exportado um **PDF do protótipo feito no Figma**:  
+
+<p align="center">
+  <a href="./MaxTitanium.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Baixar%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar PDF do Protótipo">
+  </a>
+</p>
+
+---
+
 🎨 Protótipo no Figma
 
 Você pode visualizar o design do site no Figma clicando no link abaixo:
