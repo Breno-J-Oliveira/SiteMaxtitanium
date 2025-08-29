@@ -64,18 +64,6 @@ Este projeto foi inspirado no **site oficial da Max Titanium**:
 
 ---
 
-## 📄 PDF do Protótipo / Portfólio  
-
-Também foi exportado um **PDF do protótipo feito no Figma**:  
-
-<p align="center">
-  <a href="./MaxTitanium.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Baixar%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar PDF do Protótipo">
-  </a>
-</p>
-
----
-
 🎨 Protótipo no Figma
 
 Você pode visualizar o design do site no Figma clicando no link abaixo:
