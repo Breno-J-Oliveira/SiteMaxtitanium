@@ -75,6 +75,14 @@ Você pode visualizar o design do site no Figma clicando no link abaixo:
 
 ---
 
+## 🖼 Galeria de Imagens  
+
+Algumas imagens do site desenvolvido:  
+
+<p align="center">
+  <img src="print1.png" alt="Imagem 1" width="700px">
+</p>
+
 ## 🏆 Conclusão  
 
 Este projeto foi uma oportunidade para aplicar conceitos de HTML e CSS em um caso real de loja virtual, reforçando habilidades de front-end e boas práticas de organização de código.
