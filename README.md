@@ -310,28 +310,6 @@ Nenhuma dependência ou build necessário — é HTML + CSS puro. Abre e funcion
 
 ---
 
-## Progressão no Repositório
-
-```
-_estudos-logica/          _estudos-javascript/      _estudos-php/
-     │                          │                        │
-     │  Raciocínio lógico       │  Sintaxe + DOM         │  Backend + MySQL
-     │  Algoritmos              │  Eventos + CRUD        │  Sessões + Auth
-     │  Git + POO               │  localStorage          │  Formulários
-     │                          │                        │
-     └──────────────────────────┴────────────────────────┘
-                     │
-                     ▼
-        ┌────────────────────────────────────┐
-        │  SiteMaxtitanium/    ← ESTÁS AQUI │
-        │  (Design Corporativo CSS Puro)     │
-        └────────────────────────────────────┘
-                     │
-                     ▼
-               NexusAuth        (Microsserviço completo)
-            (NestJS + PostgreSQL + Redis + Docker)
-```
-
 > O Site Max Titanium é a prova de que CSS puro, quando bem dominado, dispensa JavaScript para criar experiências visuais profissionais. O carrossel animado, os hovers, as transições — tudo feito apenas com folhas de estilo.
 
 ---
